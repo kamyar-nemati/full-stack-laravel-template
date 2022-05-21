@@ -5,8 +5,6 @@
 
   <navigation-bar></navigation-bar>
 
-  @include('partials.platform-alerts.warp-download')
-
   <div class="tw-bg-gray-100 tw-pt-8 tw-pb-16">
     <div class="container-fluid">
       <div class="row">
